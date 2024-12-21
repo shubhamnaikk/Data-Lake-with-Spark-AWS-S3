@@ -81,4 +81,3 @@ This project demonstrates the effective use of modern cloud-based tools for mana
 3. Subashini, S., Kavitha, V. - *A Survey on Security Issues in Service Delivery Models of Cloud Computing*. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1084804510001281)
 4. *Cloud Migration Strategies: Success Stories of Netflix and Spotify*. [Dev.to](https://dev.to/citrux-digital/cloud-migration-strategies-success-stories-of-netflix-and-spotify-118h)
 5. *Music Streaming Platform Achieves Infrastructure Scalability and Cost Reduction*. [CloudHero.io](https://cloudhero.io/music-streaming-platform-achieves-infrastructure-scalability-and-75-cost-reduction)
->>>>>>> ce85eca (Add project files)
