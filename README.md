@@ -1,10 +1,10 @@
 # Cloud Based ETL Pipeline for Music App Data
 
 ## Contributors
-- Shreyas Vinayak Mohite (ID: 018207475)
-- Shubham Manisha Naik (ID: 017627025)
-- Rutuja Nitin Kadam (ID: 018207176)
-- Nitya Rondla (ID: 018204186)
+- Shreyas Vinayak Mohite
+- Shubham Manisha Naik 
+- Rutuja Nitin Kadam 
+- Nitya Rondla
 
 ## Abstract
 The music streaming industry produces vast volumes of user activity data and song metadata, requiring efficient data processing to deliver personalized recommendations. This project introduces a cloud-based Extract, Transform, Load (ETL) pipeline that utilizes MongoDB Atlas, Amazon S3, and Amazon Redshift for scalable data storage, transformation, and analytics. The system implements a star schema to organize data, ensuring efficient data integration and real-time insights, which is applicable to other data-intensive industries.
