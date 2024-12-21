@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Data-Lake-with-Spark-AWS-S3
-=======
 # Cloud Based ETL Pipeline for Music App Data
 
 ## Contributors
